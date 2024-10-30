@@ -1,0 +1,115 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/bus0528/simulation/qsim
+vbus0528
+Z1 !s110 1728459266
+!i10b 1
+!s100 _mHbVZh5D]S0m`Al8?NEF3
+IZc:k?K0XJ;C;QCgS15Y7a1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1728459266
+8bus0528.vo
+Fbus0528.vo
+Z3 L0 31
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1728459266.000000
+!s107 bus0528.vo|
+!s90 -work|work|bus0528.vo|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vbus0528_vlg_vec_tst
+R1
+!i10b 1
+!s100 8KR<Q=VF@AW@3C`dcMcdS1
+I5C?SL^=Xj@OU2X>ngJDhf0
+R2
+R0
+w1728459265
+Z8 8Waveform.vwf.vt
+Z9 FWaveform.vwf.vt
+Z10 L0 29
+R4
+r1
+!s85 0
+31
+R5
+!s107 Waveform.vwf.vt|
+Z11 !s90 -work|work|Waveform.vwf.vt|
+!i113 1
+R6
+R7
+vbus1021
+Z12 !s110 1728549092
+!i10b 1
+!s100 9GV7om=dLa4cB:4eIKN?^2
+I8Oo8j@1oW0?lGnLfMlhJh1
+R2
+Z13 dD:/bus1021/simulation/qsim
+Z14 w1728549092
+Z15 8bus1021.vo
+Z16 Fbus1021.vo
+R3
+R4
+r1
+!s85 0
+31
+Z17 !s108 1728549092.000000
+Z18 !s107 bus1021.vo|
+Z19 !s90 -work|work|bus1021.vo|
+!i113 1
+R6
+R7
+vbus1021_vlg_vec_tst
+!s110 1728549093
+!i10b 1
+!s100 ]>lmTB]D0^O`PAYD4T`fT3
+I_GfzF3jXdDVJd@4kabQ7@3
+R2
+R13
+w1728549091
+R8
+R9
+R10
+R4
+r1
+!s85 0
+31
+!s108 1728549093.000000
+!s107 Waveform.vwf.vt|
+R11
+!i113 1
+R6
+R7
+vhard_block
+R12
+!i10b 1
+!s100 ded]jI433chL0^ZEM1@CT0
+IdkB9bSCAB1IXEL[8j3Lec2
+R2
+R13
+R14
+R15
+R16
+L0 1809
+R4
+r1
+!s85 0
+31
+R17
+R18
+R19
+!i113 1
+R6
+R7

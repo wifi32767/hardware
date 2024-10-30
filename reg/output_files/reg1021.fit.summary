@@ -1,0 +1,16 @@
+Fitter Status : Successful - Wed Sep 11 15:41:03 2024
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Lite Edition
+Revision Name : reg1021
+Top-level Entity Name : reg1021
+Family : Cyclone IV E
+Device : EP4CE55F23C8
+Timing Models : Final
+Total logic elements : 8 / 55,856 ( < 1 % )
+    Total combinational functions : 0 / 55,856 ( 0 % )
+    Dedicated logic registers : 8 / 55,856 ( < 1 % )
+Total registers : 8
+Total pins : 17 / 325 ( 5 % )
+Total virtual pins : 0
+Total memory bits : 0 / 2,396,160 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 308 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )

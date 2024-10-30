@@ -1,0 +1,47 @@
+|reg1021
+Q[0] <= Reg8:inst.Q[0]
+Q[1] <= Reg8:inst.Q[1]
+Q[2] <= Reg8:inst.Q[2]
+Q[3] <= Reg8:inst.Q[3]
+Q[4] <= Reg8:inst.Q[4]
+Q[5] <= Reg8:inst.Q[5]
+Q[6] <= Reg8:inst.Q[6]
+Q[7] <= Reg8:inst.Q[7]
+clk => Reg8:inst.CLK
+D[0] => Reg8:inst.D[0]
+D[1] => Reg8:inst.D[1]
+D[2] => Reg8:inst.D[2]
+D[3] => Reg8:inst.D[3]
+D[4] => Reg8:inst.D[4]
+D[5] => Reg8:inst.D[5]
+D[6] => Reg8:inst.D[6]
+D[7] => Reg8:inst.D[7]
+
+
+|reg1021|Reg8:inst
+Q[0] <= 19.DB_MAX_OUTPUT_PORT_TYPE
+Q[1] <= 18.DB_MAX_OUTPUT_PORT_TYPE
+Q[2] <= 17.DB_MAX_OUTPUT_PORT_TYPE
+Q[3] <= 16.DB_MAX_OUTPUT_PORT_TYPE
+Q[4] <= 15.DB_MAX_OUTPUT_PORT_TYPE
+Q[5] <= 14.DB_MAX_OUTPUT_PORT_TYPE
+Q[6] <= 13.DB_MAX_OUTPUT_PORT_TYPE
+Q[7] <= 12.DB_MAX_OUTPUT_PORT_TYPE
+CLK => 19.CLK
+CLK => 18.CLK
+CLK => 17.CLK
+CLK => 16.CLK
+CLK => 15.CLK
+CLK => 14.CLK
+CLK => 13.CLK
+CLK => 12.CLK
+D[0] => 19.DATAIN
+D[1] => 18.DATAIN
+D[2] => 17.DATAIN
+D[3] => 16.DATAIN
+D[4] => 15.DATAIN
+D[5] => 14.DATAIN
+D[6] => 13.DATAIN
+D[7] => 12.DATAIN
+
+

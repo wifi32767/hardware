@@ -1,0 +1,13 @@
+|decoder1021
+F0 <= inst.DB_MAX_OUTPUT_PORT_TYPE
+A => inst5.IN0
+A => inst3.IN0
+A => inst4.IN0
+B => inst6.IN0
+B => inst2.IN1
+B => inst4.IN1
+F1 <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+F2 <= inst3.DB_MAX_OUTPUT_PORT_TYPE
+F3 <= inst4.DB_MAX_OUTPUT_PORT_TYPE
+
+

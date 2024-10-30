@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/wifi32767/rom/simulation/qsim
+vhard_block
+Z1 !s110 1728461505
+!i10b 1
+!s100 bHUo?L^?mUl<29YNe<mX;0
+IT^^BBAX328PYa0dMb?OIW0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1728461504
+Z4 8rom1021.vo
+Z5 From1021.vo
+L0 648
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1728461505.000000
+Z8 !s107 rom1021.vo|
+Z9 !s90 -work|work|rom1021.vo|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vrom1021
+R1
+!i10b 1
+!s100 :AaC8zL0J1:`GRgzEGL@g3
+I^lEAm8CiIoP>=23;11E[e2
+R2
+R0
+R3
+R4
+R5
+L0 31
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vrom1021_vlg_vec_tst
+R1
+!i10b 1
+!s100 =izNdU`l]iz]6<`B?DQ6b0
+I9aGNZ7l733dR[i_nSEO@63
+R2
+R0
+R3
+8Waveform.vwf.vt
+FWaveform.vwf.vt
+L0 29
+R6
+r1
+!s85 0
+31
+R7
+!s107 Waveform.vwf.vt|
+!s90 -work|work|Waveform.vwf.vt|
+!i113 1
+R10
+R11
